@@ -12,9 +12,6 @@ Mailing address: Microwave Remote Sensing Lab, Centre of Studies in Resources En
 
 Indian Institute of Technology Bombay, Powai, Mumbai, Maharashtra, India 400076
 
-Email: avikb@csre.iitb.ac.in
-
-Phone: +91-22-2576-7677
 ---------------------------------------------------------------------------------------------------------------------------
 Operational crop monitoring through crop growth descriptors benefits from Earth Observation (EO) data with high temporal revisit and extended spatial coverage. “Considering the new generation dense time series dataset from constellation of SAR satellites (Sentinel-1, RCM, SAOCOM), the operational applications over an agricultural region would be inhibited by computational challenges given such a high volume of data rate”, pointed out by Dr. Dipankar Mandal (Indian Institute of Technology Bombay), a Co-Principal Investigator of AWS4AgriSAR project. 
 
